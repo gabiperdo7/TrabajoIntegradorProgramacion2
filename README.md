@@ -22,3 +22,5 @@
 * El sistema funciona completamente por consola.
 * Los datos se almacenan en memoria mediante colecciones.
 * No requiere configuracion adicional ni base de datos.
+
+* Link video: https://drive.google.com/drive/folders/11akFu9zRT_yj-gNo2090bILW05Gpiy-W?usp=sharing
